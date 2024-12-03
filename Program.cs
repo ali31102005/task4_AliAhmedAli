@@ -301,10 +301,10 @@ namespace ConsoleApp2
             #endregion
 
             #region p11
-            Console.Write("Enter a day number(1:7): ");
+            //Console.Write("Enter a day number(1:7): ");
 
-            DayOfWeek day = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), Console.ReadLine());
-            Console.WriteLine(day);
+            //DayOfWeek day = (DayOfWeek)Enum.Parse(typeof(DayOfWeek), Console.ReadLine());
+            //Console.WriteLine(day);
             #endregion
 
 
